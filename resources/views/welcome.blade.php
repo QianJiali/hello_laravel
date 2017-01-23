@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel 5</div>
+                <div class="title">Hallo! Ich bin Sylvia!</div>
             </div>
         </div>
     </body>
